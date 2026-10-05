@@ -46,8 +46,5 @@ Precio Final:       $120000.00
 ESTADO: ENTREGA ACEPTADA
 ```
 
-## Captura de pantalla
-*(agrega aquí tu captura del programa funcionando)*
-
 ## Autor
 Jhonathan Camarena, estudiante de Licenciatura en Redes Informáticas, UTP.
